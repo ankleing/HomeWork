@@ -1,3 +1,3 @@
 HomeWork
 =
-![](https://github.com/ankleing/HomeWork/image/image1.png)
+![](https://github.com/ankleing/HomeWork/tree/master/image/image1.png)
