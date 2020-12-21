@@ -5,6 +5,6 @@ HomeWork
     实验内容：深化hello world
     实验步骤：
 ### 1
-![image1](https://github.com/ankleing/HomeWork/tree/master/image/image1.png)
+![image1](https://github.com/ankleing/HomeWork/blob/master/image/image1.png)
 ### 2
-![image2](https://github.com/ankleing/HomeWork/tree/master/image/image2.png)
+![image2](https://github.com/ankleing/HomeWork/blob/master/image/image2.png)
